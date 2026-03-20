@@ -15,7 +15,7 @@ Frontend:
 HTML, CSS, JavaScript
 
 AI Engine:
-Ollama + Llama3
+Ollama + Llama3.2
 
 ## Run Locally
 
@@ -29,4 +29,4 @@ python3 -m http.server 8001
 
 Open:
 
-http://localhost:8001
+http://127.0.0.1:5500/index.html
